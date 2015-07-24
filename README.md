@@ -1,10 +1,3 @@
----
-language: html
-tags: html, elements
-type: intro
-resources: 0
----
-
 ## HTML Introduction
 
 In this lesson we will begin to familiarize ourselves with the syntax of HTML and learn some common elements.
