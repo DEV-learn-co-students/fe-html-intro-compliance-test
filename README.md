@@ -14,3 +14,5 @@ In this lesson we will begin to familiarize ourselves with the syntax of HTML an
   - ul, ol
   - img
   - a
+
+<a href='https://learn.co/lessons/fe-html-intro' data-visibility='hidden'>View this lesson on Learn.co</a>
