@@ -15,4 +15,4 @@ In this lesson we will begin to familiarize ourselves with the syntax of HTML an
   - img
   - a
 
-<a href='https://learn.co/lessons/fe-html-intro' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/fe-html-intro' title='HTML Introduction'>HTML Introduction</a> on Learn.co and start learning to code for free.</p>
